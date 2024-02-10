@@ -1,8 +1,6 @@
-node_modules/
+.cfn-deploy.json
+.local/
+*.log
 dist/
 lib/
-.local/
-coverage/
-*.log
-yarn-error.log
-test-report.xml
+node_modules/
